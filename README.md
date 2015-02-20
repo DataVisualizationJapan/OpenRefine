@@ -2,8 +2,13 @@
 
 ###これは何？
 データをクレンジングする便利ツールOpenRefineを日本語にローカライズしています。
-/main/webapp/modules/core/langs/translation-ja.json
+翻訳作業はまだ完了していませんが、コンパイルしてアプリ形式にしたものを以下に置いています。
 
+###Mac版 (2015-02-19)
+https://www.dropbox.com/s/fe9258lxxe90fya/openrefine-0.1.dmg?dl=0
+
+###Windows版 (2015-02-19)
+https://www.dropbox.com/s/ijcxodgbdf6ssav/openrefine-0.1.zip?dl=0
 
 OpenRefine is a power tool that allows you to load data, understand it,
 clean it up, reconcile it to master database, and augment it with data coming from
